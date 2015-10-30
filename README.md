@@ -8,10 +8,6 @@ A very simple todo list by using react-redux
 2. npm run dev
 
 
-```bash
-npm run dev
-```
-
 For **production**, please run `npm run build`
 
 
