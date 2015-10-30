@@ -1,6 +1,16 @@
 # Introduction
 
-A very simple todo list by using react-redux
+A very simple example to use react-redux, using following libraries:
+
+- react
+- redux
+- react-redux
+- redux-thunk
+- redux-devtools
+- fetch API
+- webpack
+- express
+
 
 # Development
 
